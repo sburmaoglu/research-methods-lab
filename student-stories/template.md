@@ -1,22 +1,22 @@
 ---
-title: TEMPLATE (Copy This)
+title: TEMPLATE - Copy This
 parent: Student Research Stories
 nav_order: 1
 ---
 
 # Student Name
 
-## Research Interest
-Describe your topic.
+## Research Topic
+Describe your interest area.
 
-## Initial Question
+## Initial Research Question
 What are you trying to understand?
 
-## Methodological Position
-(positivist, interpretivist, mixed etc.)
+## Methodological Paradigm
+(Positivist, interpretivist, mixed, etc.)
 
 ## Research Design Idea
-Explain your preliminary design.
+Describe your preliminary design.
 
-## Reflection
-What challenges are you facing?
+## Weekly Reflection
+What changed in your thinking this week?
