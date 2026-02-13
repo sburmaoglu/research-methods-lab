@@ -1,17 +1,17 @@
 ---
 title: Student Research Stories
-nav_order: 9
+nav_order: 20
 has_children: true
 ---
 
 # Student Research Stories
 
-Each student develops a methodological story during the semester.
+Each student documents their evolving research journey.
 
-Stories evolve through iterations and feedback.
+Stories are updated through Pull Requests during the semester.
 
----
+## How to contribute
 
-## Contributors
-
-(Add links automatically as students submit)
+1. Fork the repository
+2. Create your story file
+3. Submit a Pull Request
