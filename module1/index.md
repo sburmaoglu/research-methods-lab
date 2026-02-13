@@ -6,10 +6,11 @@ has_children: true
 
 # Module 1 — Ontology & Epistemology
 
-## Guiding question
-What is knowledge, and what counts as evidence?
+## Guiding Question
+What is reality, and how can we know it?
 
-## Outputs
-- 1-page reflection
-- Concept map
-- Reading response
+## Core Themes
+- Positivism
+- Interpretivism
+- Critical realism
+- Constructivism
