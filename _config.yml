@@ -1,3 +1,17 @@
 title: Research Methods Lab
-description: A modular, open course site for research design and evidence-based reasoning.
-theme: jekyll-theme-minimal
+description: A modular, open course site for research design and methodological thinking.
+
+# Use a book-like docs theme
+remote_theme: just-the-docs/just-the-docs
+
+# Just-the-docs options (nice defaults)
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Your site base (important for project pages)
+url: "https://YOURUSERNAME.github.io"
+baseurl: "/research-methods-lab"
+
+# Make side navigation look like a book
+nav_sort: case_sensitive
